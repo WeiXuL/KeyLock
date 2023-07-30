@@ -6,8 +6,8 @@
 Private key can be generated, and password encryption can be used
 
 # 更新日志|Update log
-### _v0.3.beta_
-
+### _v0.3.beta_  
+  
 **中文**
 >   1.新增GUI界面  
 >   2.优化文件大小  
@@ -22,7 +22,7 @@ Private key can be generated, and password encryption can be used
 > [https://xerol.lanzouy.com/iKZTP13vt6xe](url)  
 > 密码:0000  
 
-2023.7.30
+## 2023.7.30
 
   ### _v0.2.beta_
 
@@ -41,4 +41,4 @@ Private key can be generated, and password encryption can be used
 > [https://xerol.lanzouy.com/i62TO13rpdmh](url)  
 > 密码:0000
 
-2023.7.29
+## 2023.7.29
