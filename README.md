@@ -9,7 +9,7 @@ Private key can be generated, and password encryption can be used
 ### _v0.3.1.beta_
 
 **中文**
->   1.修复错误文本
+>   1.修复错误文本  
 >   2.优化GUI界面
 
 **English**
