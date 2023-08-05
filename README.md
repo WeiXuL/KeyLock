@@ -17,7 +17,7 @@ Private key can be generated, and password encryption can be used
 >2. Optimize GUI interface
 
 **中国不限速下载链接⚡**
-> [https://xerol.lanzouy.com/iy1PO14j1kub](url)
+> [https://xerol.lanzouy.com/iy1PO14j1kub](url)  
 > 密码:0000
 
 ## 2023.8.5
