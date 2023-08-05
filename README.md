@@ -6,6 +6,22 @@
 Private key can be generated, and password encryption can be used
 
 # 更新日志|Update log
+### _v0.3.1.beta_
+
+**中文**
+>   1.修复错误文本
+>   2.优化GUI界面
+
+**English**
+>1. Fix error text
+>2. Optimize GUI interface
+
+**中国不限速下载链接⚡**
+> [https://xerol.lanzouy.com/iy1PO14j1kub](url)
+> 密码:0000
+
+## 2023.8.5
+
 ### _v0.3.beta_  
   
 **中文**
